@@ -1,0 +1,10 @@
+a .btn {
+    display: block;
+}
+time {
+    display: block;
+    opacity: .5;
+}
+.post {
+    margin-bottom: 24px;
+}

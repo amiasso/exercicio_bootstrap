@@ -1,0 +1,17 @@
+h2 {
+    text-align: center;
+    color: red;
+}
+.row form {
+    padding-left: 16PX;
+}
+.col label {
+    color: red;
+}
+.row form input {
+    background-color: aqua;
+    color: red;
+}
+.row a{
+    text-decoration: none;
+}
